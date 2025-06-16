@@ -3,7 +3,7 @@ import sys
 from dotenv import load_dotenv
 from google import genai
 from google.genai import types
-# This script uses the Google Gemini API to generate content based on a prompt.
+
 
 
 load_dotenv()
