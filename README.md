@@ -12,7 +12,7 @@ AI Agent is a generative AI project designed to perform various tasks using adva
 
 ### Prerequisites
 - Python 3.8+
-- Required packages: (to be specified based on implementation)
+- Required packages = `pip install -r requirements.txt`
 
 ### Installation
 1. Clone the repository:
