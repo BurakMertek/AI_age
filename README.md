@@ -32,22 +32,3 @@ AI Agent is a generative AI project designed to perform various tasks using adva
    python main.py
    ```
 2. Follow the prompts to interact with the AI agent or use the calculator feature.
-
-## Project Structure
-- `main.py`: Entry point for the application
-- `calculator/`: Directory containing calculator-related code
-- `README.md`: This file
-
-## Contributing
-Contributions are welcome! Please follow these steps:
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature-branch`)
-3. Commit your changes (`git commit -m 'Add some feature'`)
-4. Push to the branch (`git push origin feature-branch`)
-5. Open a pull request
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-For questions or suggestions, please open an issue or contact the maintainer at [GitHub Issues](https://github.com/BurakMertek/AI_agent/issues).
